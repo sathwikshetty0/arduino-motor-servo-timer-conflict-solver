@@ -130,3 +130,9 @@ A special command, **`X`**, is used to toggle between these two modes, providing
     * `X` - **Toggle between Motor Mode and Servo Mode.**
 * **Servo Control (Only in Servo Mode - LED OFF)**
     * `Z<angle>` - Sets the servo to a specific angle (e.g., `Z45`, `Z120`).
+    * 
+
+### Controler Link and Instructions 
+* **https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar
+* **Don't forget to calibrate the controller
+* **Change the servo value from x to z and values from 0-80
