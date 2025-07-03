@@ -131,5 +131,4 @@ A special command, **`X`**, is used to toggle between these two modes, providing
     * `X` - **Toggle between Motor Mode and Servo Mode.**
 * **Servo Control (Only in Servo Mode - LED OFF)**
     * `Z<angle>` - Sets the servo to a specific angle (e.g., `Z45`, `Z120`).
-    * 
-
+      
