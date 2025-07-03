@@ -103,8 +103,9 @@ A special command, **`X`**, is used to toggle between these two modes, providing
 ## 📱 How to Operate the Car
 
 1.  **Get a Bluetooth App**: Download a Bluetooth serial controller app from the Google Play Store or Apple App Store. "Arduino Bluetooth Controller" or "Serial Bluetooth Terminal" are good options.
-2.  **Pair Your Phone**: Turn on the robot. On your phone, go to Bluetooth settings and pair with the "HC-05" or "HC-06" device. The default password is usually `1234` or `0000`.
-3.  **Configure the App**: Set up buttons in the app to send the following commands. Ensure the app is set to send a newline character (`\n`) after each command.
+2.  **App link**: https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar
+3.  **Pair Your Phone**: Turn on the robot. On your phone, go to Bluetooth settings and pair with the "HC-05" or "HC-06" device. The default password is usually `1234` or `0000`.
+4.  **Configure the App**: Set up buttons in the app to send the following commands. Ensure the app is set to send a newline character (`\n`) after each command.
 
 > ### ⚠️ Important App Configuration
 >
