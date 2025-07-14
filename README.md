@@ -14,7 +14,7 @@ When using an Arduino Uno with an Adafruit Motor Shield V1 (or a common clone), 
 
 When both libraries try to control **Timer 1** at the same time, it corrupts the signals being sent, leading to erratic behavior and the risk of permanent hardware damage.
 
----
+--
 
 ## ⚠️ Important: The Risk of Hardware Damage (The "Burning" Issue)
 
